@@ -53,6 +53,8 @@ Response :
 ```
 
 **_Redirection api_**:
+
 URL : //tinyurl-clone/{key}
+
 Method : GET
 
